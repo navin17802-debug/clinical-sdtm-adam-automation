@@ -1,1 +1,18 @@
-
+{
+  "SEX": {
+    "M": "MALE",
+    "F": "FEMALE",
+    "U": "UNKNOWN"
+  },
+  "RACE": {
+    "1": "WHITE",
+    "2": "BLACK OR AFRICAN AMERICAN",
+    "3": "ASIAN",
+    "4": "OTHER"
+  },
+  "AESEV": {
+    "MILD": "1",
+    "MODERATE": "2",
+    "SEVERE": "3"
+  }
+}
